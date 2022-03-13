@@ -34,7 +34,7 @@ export default function Home() {
               </p>
 
               <p className="mt-4">
-                We don't do Orc-crap or hypnotising design witchcraft.
+                We don&apos;t do Orc-crap or hypnotising design witchcraft.
               </p>
 
               <p className="mt-4">
@@ -138,7 +138,7 @@ export default function Home() {
                   className="bg-black rounded-full inline-flex items-center justify-center h-5 w-5 text-white font-bold text-xs">2</span>
                 <h3 className="font-semibold font-sans-uc text-lg">Stake Mina</h3>
               </div>
-              <p className="leading-relaxed mt-2">Inside Auro, click on "Staking" and search for <span className="whitespace-nowrap">"A Lot at Stake"</span>, select it and stick with the defaults. Continue and confirm.</p>
+              <p className="leading-relaxed mt-2">Inside Auro, click on &quot;Staking&quot; and search for <span className="whitespace-nowrap">&quot;A Lot at Stake&quot;</span>, select it and stick with the defaults. Continue and confirm.</p>
             </li>
 
             <li>
