@@ -25,7 +25,7 @@ module.exports = {
 
     extend: {
       colors: {
-        gray: colors.trueGray,
+        gray: colors.neutral,
       },
 
       width: {
